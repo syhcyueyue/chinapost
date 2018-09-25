@@ -11,5 +11,5 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 user:
-  name:zhangsan
-  age:18
+  name: zhangsan
+  age: 18
