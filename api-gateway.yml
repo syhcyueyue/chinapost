@@ -9,8 +9,8 @@ zuul:
   routes:
   # /myProduct/product/list -> /product/product/list
     aaaaaa:
-      path: /mySystem/**
-      serviceId: system
+      path: /system/**
+      serviceId: client-system
       sensitiveHeaders:
   #简洁写法
 #    product: /myProduct/**
